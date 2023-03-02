@@ -1,0 +1,5 @@
+p=input("state princple")
+r=input("state rate")
+n=input("state no")
+c=int (p)*(1+int (r)/100)**int (n)
+print (c)

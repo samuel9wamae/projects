@@ -1,0 +1,11 @@
+#write a program to display a big T pattern
+print("tttttttttttttttttttttttttttttttttt")
+print("               t t                 ")
+print("               t t                 ")
+print("               t t                 ")
+print("               t t                 ")
+print("               t t                ")
+print("               t t                 ")
+print("               t t                 ")
+print("               t t                 ")
+print("               t t                 ")
