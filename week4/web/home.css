@@ -17,7 +17,8 @@
 }
 body{
     background-image:url(assets/background.jpg) ;
-    
+    background-repeat: no-repeat;
+    background-size:100% 100%;
     background-color:rgb(135, 222, 164); 
 }
 h3{font-size: medium;
