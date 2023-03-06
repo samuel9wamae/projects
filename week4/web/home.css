@@ -1,0 +1,27 @@
+#img1{
+    width: 200px;
+    height:200px;
+}
+#img2{
+    width: 200px;
+    height:200px;
+}
+
+#img3{
+    width: 200px;
+    height:200px;
+}
+#img4{
+    width: 200px;
+    height:200px;
+}
+body{
+    background-image:url(assets/background.jpg) ;
+    
+    background-color:rgb(135, 222, 164); 
+}
+h3{font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 0, 0);
+}
+    
