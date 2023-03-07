@@ -5,11 +5,14 @@ h1{
    font-family:'Times New Roman', Times, serif;
    ;
 }
-body{
+.body{
 color:maroon;
 font-family:Arial, Helvetica, sans-serif;
 font-weight: bold;
 font: size 12px;
+background-image: url(assets/background2.jpg);
+background-size: 100% 100%;
+background-position: center;
 }
 #message-button{color:rgba(90, 0, 0, 0.867);
    margin:25px;
