@@ -1,7 +1,7 @@
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: url(images/banner.png),linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7));
+    background-image: url(images/background2.jpg),linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7));
     background-position: center;
     background-size: cover;
     position: relative;
@@ -31,7 +31,7 @@ display: block;
     display: inline-block;
 }
 .nav-links ul li a{
-    color: black;
+    color: darkgreen;
     text-decoration: rgb(163, 143, 62);
     font-family: 'Times New Roman', Times, serif;
 }
@@ -43,13 +43,13 @@ display: block;
 }
 .text-box h1{
     font-family:'Archivo Black', sans-serif;;
-    color:black;
+    color:rgb(0, 87, 0);
  font-size: 56px;
 
 }
 .text-box p{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 12px;
+    font-size: 14px;
 }
 .text-box a{
     color: whitesmoke;
