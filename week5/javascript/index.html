@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>     
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="text"> Javascript Basics</h1>
+    <h1 id="f_name"></h1>
+    <h1 id="s_name"></h1>
+    <h1 id="age"></h1>
+    <h1 id="weight"></h1>
+    <h2 id="number"></h2>
+    <h2 id="number2"></h2>
+    <h2 id="sum"></h2>
+
+
+
+    
+    <script>
+        //variables in javascript//
+        //number//
+       
+
+        var number1=12;
+        var number2=18;
+       var sum=number1+number2;
+        //string//
+        var name1="samuel";
+        var name2="wamae";
+        var age=18;
+        //float//
+        var weight=65.5;
+        /*document.getElementById("f_name").innerHTML=name1
+        document.getElementById("s_name").innerHTML=name2
+        document.getElementById("age").innerHTML=age
+        document.getElementById("weight").innerHTML=weight*/
+        document.getElementById("number").innerHTML=number1;
+        document.getElementById("number2").innerHTML=number2;
+        document.getElementById("sum").innerHTML=sum;
+       //arithmetic operators//
+       /* sum + dif- prod* div/ modulus % */
+          var sum=number1+number2
+          var dif=number1-number2
+          var prod=number1*number2
+          var div=number1/number2
+          var modulus=number1%number2
+//strings use ""//
+   var name=" sam"
+   var mname="wam"
+    var fullname=name+" "+mname
+    document.getElementById("number").innerHTML=fullname;
+    //initializing variables//
+    /*var
+    let
+    constant*/
+    //arrays//
+    let fruits=["mango","banana","oranges","apples","passion"]
+   var fruit=fruits[fruits.length-1]
+   document.getElementById("f_name").innerHTML=fruit;
+   //conditional//
+   if (age>=18)
+   {var y="you can drive"}
+ 
+   else 
+    { var y="too young to drive"}
+    document.getElementById("age").innerHTML=y
+    </script>
+    <button>click me</button>
+</body>
+
+</html>

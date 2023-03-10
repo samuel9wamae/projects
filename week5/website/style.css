@@ -39,7 +39,7 @@ display: block;
     background: #f03a2e;
     transition: 1s;}
 .text-box{
-    text-align:bottom;
+    text-align:left;
 }
 .text-box h1{
     font-family:'Archivo Black', sans-serif;;
@@ -49,7 +49,8 @@ display: block;
 }
 .text-box p{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 14px;
+    font-size: 16px;
+    color: blanchedalmond;
 }
 .text-box a{
     color: whitesmoke;
@@ -72,11 +73,11 @@ display: block;
 .overview{
     display: inline-block;
  }
- .overview h1{
+ .overview h1{color: darkgreen;
     font-size: 23px;
     font-family: cursive;
  }
- .overview p{
+ .overview p{color: blanchedalmond;
     font-family:cursive;
     font-size: 15px;
     position: absolute;
