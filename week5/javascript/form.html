@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> simple-form</title>
+        
+    </head>
+    <body>
+     <div style="background-color:black ;">
+       
+        <h1>PROFILE REGISTRATION </h1>
+        <form>
+          <input type="text" placeholder="name"><br>
+          <input type="text" placeholder="gender"><br>
+          <input type="number" id="condition" placeholder="age"><br>
+          <button type="button" onclick="test()">enter</button>
+        </form>
+       <script >
+        function test(){
+            var y=document.getElementById("condition").value;
+            if (y<18)
+             {var msg="not old enough"; } 
+             else 
+             {var msg="old enough";}
+                 document.getElementById("display").innerHTML=msg;}
+           </script>
+       <h1 id="display"></h1>
+    </div>
+    </body>
+</html>
