@@ -1,0 +1,33 @@
+    .full{  font-family: 'Roboto Slab', serif;
+    text-decoration:blueviolet;
+    background-image:url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    opacity: 13;
+ }
+*{
+    margin: 0;
+    padding: 0;
+    
+    color:rgba(42, 157, 31, 0.698);
+}
+
+.mus1 img{
+    border-radius: 123px;
+    
+}
+.mus2 img{
+    border-radius: 123px;
+    
+}.mus3 img{
+    border-radius: 123px;
+    
+}.mus4 img{
+    border-radius: 123px;
+    
+}
+    
+
+
