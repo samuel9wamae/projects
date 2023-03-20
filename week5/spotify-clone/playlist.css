@@ -28,6 +28,20 @@
     border-radius: 123px;
     
 }
+.full button{
+    text-decoration: none;
+    color:rgb(25, 20, 20);
+    border: 2px solid rgb(11, 117, 2);
+    padding: 12px 34px;
+    background:white ;
+    position: relative;
+    cursor: pointer;
     
+}
+.full button:hover{
+    border: 1px solid #39f436;
+    background: #007128;
+    transition: 1s
+}
 
 
