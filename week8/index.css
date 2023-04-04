@@ -1,0 +1,219 @@
+*{ 
+    margin: none;
+    padding: none;
+}
+.start{position: absolute;
+    width: 1280px;
+    height: 382px;
+    left: -2px;
+    top: 2px;
+    
+    background: #CBAE8B;
+    border-radius: 0px 0px 12px 12px;}
+.nav{ text-align: right;
+    }
+.nav ul li{display: inline-block;
+}
+.nav ul li a{
+    text-decoration:none;
+    color: black;
+}
+.nav ul li a:hover{border: 1px solid white;
+    background: #DC8449;
+    transition: 1s;}
+.contact{position: absolute;
+    width: 52px;
+    height: 19px;
+    left: 997px;
+    top: 17px;
+    
+    /* nav */
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+    }
+.bio{position: absolute;
+    width: 21px;
+    height: 19px;
+    left: 1108px;
+    top: 17px;
+    
+    /* nav */
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+    }
+.shop{position: absolute;
+    width: 32px;
+    height: 19px;
+    left: 1188px;
+    top: 17px;
+    
+    /* nav */
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+    }
+.profile{position: absolute;
+    width: 241px;
+    height: 241px;
+    left: 30px;
+    top: 36px;
+    border-radius: 180px;
+    
+    background: url(images/icon.png);
+    background-size: cover;
+
+                 }
+
+
+.h2{position: absolute;
+    width: 780px;
+    height: 43px;
+    left: 323px;
+    top: 45px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57px;
+    line-height: 43px;
+    text-transform: capitalize;
+    
+    color: #000000;
+    }
+.description{position: absolute;
+    width: 515px;
+    height: 96px;
+    left: 323px;
+    top: 213px;
+    }
+.icons{position: absolute;
+    width: 1280px;
+    height: 35px;
+    left: 0px;
+    top: 349px;
+    
+    background: rgba(0, 0, 0, 0.23);
+    border-radius: 0px 0px 12px 12px;}
+.insta{position: relative;
+    width: 48px;
+    height: 33px;
+    left: 119px;
+    
+
+    
+  }
+.insta img{position: absolute;
+    width: 41px;
+    height: 33px;
+    left: 0px;
+   top: 300px;
+   opacity: 45%;
+
+
+  }
+.pint{position: relative;
+    width: 35px;
+    height: 31px;
+    left: 584px;
+    
+
+   
+    
+    
+    }
+.pint img{position: absolute;
+        width: 41px;
+        height: 33px;
+        left: 29px;
+     top: 265px;
+     opacity: 45%;
+
+    
+    
+    }
+.you{position: relative;
+    width: 35px;
+    height: 31px;
+    left: 1011px;
+   
+    }
+.you img{position: absolute;
+        width: 41px;
+        height: 33px;
+        left: 119px;
+       top: 240px;
+     opacity: 45%;
+
+    
+    
+      }
+
+    .main ul li a{ text-decoration: none;
+    color: black;
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;}
+    .main ul li a:hover{border: 1px solid white;
+        background:#DC8449;
+        transition: 1s;}
+
+.commissions{
+    position: absolute;
+    width: 248px;
+    height: 366px;
+    left: 118px;
+    top: 455px;
+
+    
+    background-image: url(images/astro.jpg);
+    border-radius: 12px;
+    background-size: cover;
+    margin: 3px;
+    
+    }
+.pose{position: absolute;
+    width: 248px;
+     height: 366px;
+    left: 572px;
+    top: 455px;
+    background-position: center;
+    background-size: 100% 100%;
+    
+    
+    background-image: url(images/pose.jpg);
+    border-radius: 12px;}
+.web{position: absolute;
+    width: 248px;
+height: 366px;
+    left: 996px;
+    top: 455px;
+    background-position: center;
+    background-size:100% 100%;
+
+    
+    background-image: url(images/website.jpg);
+    border-radius: 12px;
+background-repeat: no-repeat;}
+.main{
+
+}
+
