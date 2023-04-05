@@ -1,6 +1,6 @@
 *{ 
-    margin: none;
-    padding: none;
+    margin: 0px;
+    padding: 0px;
 }
 .start{position: absolute;
     width: 1280px;
@@ -123,8 +123,8 @@
     width: 41px;
     height: 33px;
     left: 0px;
-   top: 300px;
-   opacity: 45%;
+   top: 330px;
+   opacity: 75%;
 
 
   }
@@ -142,8 +142,8 @@
         width: 41px;
         height: 33px;
         left: 29px;
-     top: 265px;
-     opacity: 45%;
+     top: 295px;
+     opacity: 75%;
 
     
     
@@ -158,8 +158,8 @@
         width: 41px;
         height: 33px;
         left: 119px;
-       top: 240px;
-     opacity: 45%;
+       top: 270px;
+     opacity: 75%;
 
     
     
@@ -182,7 +182,7 @@
     height: 366px;
     left: 118px;
     top: 455px;
-
+     text-align: center ;
     
     background-image: url(images/astro.jpg);
     border-radius: 12px;
@@ -197,7 +197,7 @@
     top: 455px;
     background-position: center;
     background-size: 100% 100%;
-    
+    text-align: center;
     
     background-image: url(images/pose.jpg);
     border-radius: 12px;}
@@ -208,12 +208,9 @@ height: 366px;
     top: 455px;
     background-position: center;
     background-size:100% 100%;
-
+    text-align: center;
     
     background-image: url(images/website.jpg);
     border-radius: 12px;
 background-repeat: no-repeat;}
-.main{
-
-}
 
